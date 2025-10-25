@@ -41,7 +41,7 @@ This project documents a vulnerability assessment on a local Windows machine usi
 
 ## Scan Results Screenshot
 
-![Nessus Scan Results](screenshots/nessus-scan-results.png)
+![Nessus Scan Results](screenshots/nessus-scan.png)
 
 ## CVSS Scoring and Risk Analysis
 
